@@ -7,7 +7,7 @@
   <li>เพิ่ม ลบ แก้ไข ข้อมูล</li>
   </ul>
 <h2>Example code<h2>
-'''
+```
   class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -23,7 +23,7 @@
     );
   }
 }
-'''
+```
 <h2>Credit<h2>
   <a href="https://web.facebook.com/">610107030019@dpu.ac.th</a>
 <h2>License<h2>
