@@ -1,12 +1,12 @@
 # Queueie
 ### โปรเจคเว็บแอพ จัดทำโดย นางสาวกิ่งแก้ว จันธนโรจน์
-<h2>Features</h2>
+### Features
   <ul style="list-style-type:disc;">
   <li>จองคิว</li>
   <li>ดูรายการ service</li>
   <li>เพิ่ม ลบ แก้ไข ข้อมูล</li>
   </ul>
-<h2>Example code<h2>
+### Example code
   
 ```
   class MyApp extends StatelessWidget {
@@ -26,8 +26,8 @@
   }
 ```
   
-<h2>Credit<h2>
-<a href="https://web.facebook.com/">610107030019@dpu.ac.th</a>
+  ### Credit
+  610107030019@dpu.ac.th
   
-  <h3>License</h3>
+  ### License
 
